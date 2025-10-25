@@ -23,4 +23,4 @@
 3. Abrir la app y navegar entre las pantallas.
 
 ## 👨‍💻 Autor
-Cristhian Andrés Burbano Mendoza
+NO quiero decir mi nombre
